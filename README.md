@@ -1,0 +1,2 @@
+# CTICnadBI
+Clase BI
