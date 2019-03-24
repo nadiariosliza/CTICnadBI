@@ -6,7 +6,7 @@ create table clientes (
 
 	
 
+tablespace tmp
 
-autor: Nadia Ríos
 
-tercer cambio
+*cuarto cambio
