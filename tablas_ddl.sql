@@ -5,7 +5,7 @@ create table clientes (
 )
 
 	
-
+	fdotroddddotro cambio mas
 tablespace tmp
 
 
